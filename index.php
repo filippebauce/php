@@ -4,7 +4,7 @@
 	
 	echo"teste 2";
 
-	echo"teste2";
+	
 
 
 ?>
